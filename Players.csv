@@ -1,0 +1,189 @@
+PlayerID, name, role, battinghand, bowlinghand, bowlingtype ,TeamID
+CSK1, MS Dhoni, Captain|Wicketkeeper, Right, Right, Fast,CSK
+CSK2, KM Asif, Bowler, Right, Right, Fast,CSK
+CSK3, Deepak Chahar, Bowler, Right, Right, Fast,CSK
+CSK4, Piyush Chawla, Allrounder, Left, Right, Spin,CSK
+CSK5, Sam Curran, Allrounder, Left, Left, Fast,CSK
+CSK6, Faf du Plessis, Batsman, Right, Right, Spin,CSK
+CSK7, Ruturaj Gaikwad, Batsman, Right, Right, Spin,CSK
+CSK8, Josh Hazlewood, Bowler, Left, Right, Fast,CSK
+CSK9, Imran Tahir, Bowler, Right, Right, Spin,CSK
+CSK10, Ravindra Jadeja, Allrounder, Left, Left, Spin,CSK
+CSK11, Kedar Jadhav, Allrounder, Right, Right, Spin,CSK
+CSK12, Narayan Jagadeesan, Batsman, Right, Does not bowl, Does not bowl,CSK
+CSK13, Monu Kumar, Allrounder, Right, Right, Fast,CSK
+CSK14, Lungi Ngidi, Bowler, Right, Right, Fast,CSK
+CSK15, Ambati Rayudu, Batsman, Right, Right, Spin,CSK
+CSK16, Mitchell Santner, Allrounder, Left, Left, Spin,CSK
+CSK17, Karn Sharma, Bowler, Left, Right, Spin,CSK
+CSK18, Shardul Thakur, Bowler, Right, Right, Fast,CSK
+CSK19, Murali Vijay, Batsman, Right, Right, Spin,CSK
+CSK20, Shane Watson, Allrounder, Right, Right, Fast,CSK
+CSK21, Dwayne Bravo, Allrounder, Right, Right, Fast,CSK
+CSK22, Harbhajan Singh, Bowler, Right, Right, Spin,CSK
+CSK23, Suresh Raina, Batsman, Left, Right, Spin,CSK
+DC1, Shreyas Iyer, Captain|Batsman, Right, Right, Spin,DC
+DC2, Ravichandran Ashwin, Allrounder, Right, Right, Spin,DC
+DC3, Avesh Khan, Bowler, Right, Right, Fast,DC
+DC4, Alex Carey, Wicketkeeper, Left, Does not bowl, Does not bowl,DC
+DC5, Tushar Deshpande, Bowler, Left, Right, Fast,DC
+DC6, Shikhar Dhawan, Batsman, Left, Right, Spin,DC
+DC7, Praveen Dubey, Bowler, Right, Right, Spin,DC
+DC8, Shimron Hetmyer, Batsman, Left, Does not bowl, Does not bowl,DC
+DC9, Sandeep Lamichhane, Bowler, Right, Right, Spin,DC
+DC10, Anrich Nortje, Bowler, Right, Right, Fast,DC
+DC11, Rishabh Pant, Wicketkeeper, Left, Does not bowl, Does not bowl,DC
+DC12, Axar Patel, Allrounder, Left, Left, Spin,DC
+DC13, Harshal Patel, Bowler, Right, Right, Fast,DC
+DC14, Keemo Paul, Allrounder, Right, Right, Fast,DC
+DC15, Kagiso Rabada, Bowler, Left, Right, Fast,DC
+DC16, Ajinkya Rahane, Batsman, Right, Right, Fast,DC
+DC17, Daniel Sams, Allrounder, Right, Left, Fast,DC
+DC18, Mohit Sharma, Bowler, Right, Right, Fast,DC
+DC19, Prithvi Shaw, Batsman, Right, Right, Spin,DC
+DC20, Marcus Stoinis, Batsman, Right, Right, Fast,DC
+DC21, Lalit Yadav, Allrounder, Right, Right, Spin,DC
+DC22, Amit Mishra, Bowler, Right, Right, Spin,DC
+DC23, Jason Roy, Batsman, Right, Does not bowl, Does not bowl,DC
+DC24, Ishant Sharma, Bowler, Right, Right, Fast,DC
+DC25, Chris Woakes, Allrounder, Right, Right, Fast,DC
+KXIP1, KL Rahul, Captain|Wicketkeeper, Right, Does not bowl, Does not bowl,KXIP
+KXIP2, Mayank Agarwal, Batsman, Right, Does not bowl, Does not bowl,KXIP
+KXIP3, Arshdeep Singh, Bowler, Left, Left, Fast,KXIP
+KXIP4, Murugan Ashwin, Bowler, Right, Right, Spin,KXIP
+KXIP5, Sheldon Cottrell, Bowler, Right, Left, Fast,KXIP
+KXIP6, Chris Gayle, Allrounder, Left, Right, Spin,KXIP
+KXIP7, Krishnappa Gowtham, Allrounder, Right, Right, Spin,KXIP
+KXIP8, Deepak Hooda, Allrounder, Right, Right, Spin,KXIP
+KXIP9, Chris Jordan, Bowler, Right, Right, Fast,KXIP
+KXIP10, Sarfaraz Khan, Batsman, Right, Right, Spin,KXIP
+KXIP11, Mandeep Singh, Allrounder, Right, Right, Fast,KXIP
+KXIP12, Glenn Maxwell, Allrounder, Right, Right, Spin,KXIP
+KXIP13, Mohammed Shami, Bowler, Right, Right, Fast,KXIP
+KXIP14, Mujeeb Ur Rahman, Bowler, Right, Right, Spin,KXIP
+KXIP15, Karun Nair, Batsman, Right, Right, Spin,KXIP
+KXIP16, James Neesham, Allrounder, Left, Right, Fast,KXIP
+KXIP17, Nicholas Pooran, Wicketkeeper, Left, Does not bowl, Does not bowl,KXIP
+KXIP18, Ishan Porel, Bowler, Right, Right, Fast,KXIP
+KXIP19, Ravi Bishnoi, Bowler, Right, Right, Spin,KXIP
+KXIP20, Jagadeesha Suchith, Bowler, Left, Left, Spin,KXIP
+KXIP21, Tajinder Singh, Allrounder, Right, Right, Spin,KXIP
+KXIP22, Hardus Viljoen, Bowler, Right, Right, Fast,KXIP
+KXIP23,Prabhsimran Singh,Wicketkeeper,Right,Does not bowl,Does not bowl,KXIP
+KXIP24,Harpreet Brar,Bowler,Left,Left,Spin,KXIP
+KKR1, Eoin Morgan, Captain|Batsman, Left, Right, Fast,KKR
+KKR2, Tom Banton, Batsman, Right, Does not bowl, Does not bowl,KKR
+KKR3, Pat Cummins, Bowler, Right, Right, Fast,KKR
+KKR4, Lockie Ferguson, Bowler, Right, Right, Fast,KKR
+KKR5, Chris Green, Allrounder, Right, Right, Spin,KKR
+KKR6, Dinesh Karthik, Captain|Wicketkeeper, Right, Right, Spin,KKR
+KKR7, Kuldeep Yadav, Bowler, Left, Left, Spin,KKR
+KKR8, Siddhesh Lad, Batsman, Right, Right, Spin,KKR
+KKR9, Kamlesh Nagarkoti, Bowler, Right, Right, Fast,KKR
+KKR10, Nikhil Naik, Wicketkeeper, Right, Does not bowl, Does not bowl,KKR
+KKR11, Sunil Narine, Allrounder, Left, Right, Spin,KKR
+KKR12, Prasidh Krishna, Bowler, Right, Right, Fast,KKR
+KKR13, Nitish Rana, Batsman, Left, Right, Spin,KKR
+KKR14, Andre Russell, Allrounder, Right, Right, Fast,KKR
+KKR15, Sandeep Warrier, Bowler, Right, Right, Fast,KKR
+KKR16, Shivam Mavi, Allrounder, Right, Right, Fast,KKR
+KKR17, Shubman Gill, Batsman, Right, Right, Spin,KKR
+KKR18, Rinku Singh, Batsman, Left, Right, Spin,KKR
+KKR19, Rahul Tripathi, Batsman, Right, Right, Fast,KKR
+KKR20, Varun Chakravarthy, Bowler, Right, Right, Spin,KKR
+KKR21, Ali Khan, Bowler, Right, Right, Fast,KKR
+KKR22, Harry Gurney, Bowler, Right, Left, Fast,KKR
+KKR23, Pravin Tambe, Bowler, Right, Right, Spin,KKR
+MI1, Rohit Sharma, Captain|Batsman, Right, Right, Spin,MI
+MI2, Anmolpreet Singh, Batsman, Right, Right, Spin,MI
+MI3, Trent Boult, Bowler, Right, Left, Fast,MI
+MI4, Jasprit Bumrah, Bowler, Right, Right, Fast,MI
+MI5, Rahul Chahar, Bowler, Right, Right, Spin,MI
+MI6, Nathan Coulter-Nile, Bowler, Right, Right, Fast,MI
+MI7, Quinton de Kock, Wicketkeeper, Left, Does not bowl, Does not bowl,MI
+MI8, Ishan Kishan, Wicketkeeper, Left, Does not bowl, Does not bowl,MI
+MI9, Dhawal Kulkarni, Bowler, Right, Right, Fast,MI
+MI10, Chris Lynn, Batsman, Right, Left, Spin,MI
+MI11, Mitchell McClenaghan, Bowler, Left, Left, Fast,MI
+MI12, Hardik Pandya, Allrounder, Right, Right, Fast,MI
+MI13, Krunal Pandya, Allrounder, Left, Left, Spin,MI
+MI14, James Pattinson, Bowler, Left, Right, Fast,MI
+MI15, Kieron Pollard, Allrounder, Right, Right, Fast,MI
+MI16, Anukul Roy, Allrounder, Left, Left, Spin,MI
+MI17, Sherfane Rutherford, Batsman, Left, Right, Fast,MI
+MI18, Aditya Tare, Wicketkeeper, Right, Does not bowl, Does not bowl,MI
+MI19, Saurabh Tiwary, Batsman, Left, Does not bowl, Does not bowl,MI
+MI20, Jayant Yadav, Bowler, Right, Right, Spin,MI
+MI21, Suryakumar Yadav, Batsman, Right, Right, Fast,MI
+MI22, Lasith Malinga, Bowler, Right, Right, Fast,MI
+RR1, Steven Smith, Captain|Batsman, Right, Right, Spin,RR
+RR2, Varun Aaron, Bowler, Right, Right, Fast,RR
+RR3, Akash Singh, Bowler, Right, Left, Fast,RR
+RR4, Jofra Archer, Bowler, Right, Right, Fast,RR
+RR5, Jos Buttler, Wicketkeeper, Right, Does not bowl, Does not bowl,RR
+RR6, Tom Curran, Allrounder, Right, Right, Fast,RR
+RR7, Shreyas Gopal, Allrounder, Right, Right, Spin,RR
+RR8, Yashasvi Jaiswal, Batsman, Left, Right, Spin,RR
+RR9, Kartik Tyagi, Bowler, Right, Right, Fast,RR
+RR10, Mahipal Lomror, Allrounder, Left, Left, Spin,RR
+RR11, Mayank Markande, Bowler, Right, Right, Spin,RR
+RR12, David Miller, Batsman, Left, Right, Spin,RR
+RR13, Riyan Parag, Batsman, Right, Right, Spin,RR
+RR14, Ankit Rajpoot, Bowler, Right, Right, Fast,RR
+RR15, Sanju Samson, Wicketkeeper, Right, Does not bowl, Does not bowl,RR
+RR16, Shashank Singh, Batsman, Right, Right, Spin,RR
+RR17, Ben Stokes, Allrounder, Left, Right, Fast,RR
+RR18, Rahul Tewatia, Bowler, Left, Right, Spin,RR
+RR19, Oshane Thomas, Bowler, Left, Right, Fast,RR
+RR20, Andrew Tye, Bowler, Right, Right, Fast,RR
+RR21, Jaydev Unadkat, Bowler, Right, Left, Fast,RR
+RR22, Robin Uthappa, Batsman, Right, Right, Fast,RR
+RR23, Manan Vohra, Batsman, Right, Right, Fast,RR
+RCB1, Virat Kohli, Captain|Batsman, Right, Right, Fast,RCB
+RCB2, Moeen Ali, Allrounder, Left, Right, Spin,RCB
+RCB3, Yuzvendra Chahal, Bowler, Right, Right, Spin,RCB
+RCB4, Pavan Deshpande, Allrounder, Left, Right, Spin,RCB
+RCB5, AB de Villiers, Wicketkeeper, Right, Right, Fast,RCB
+RCB6, Shivam Dube, Allrounder, Left, Right, Fast,RCB
+RCB7, Aaron Finch, Batsman, Right, Left, Spin,RCB
+RCB8, Gurkeerat Singh Mann, Batsman, Right, Right, Spin,RCB
+RCB9, Mohammed Siraj, Bowler, Right, Right, Fast,RCB
+RCB10, Chris Morris, Allrounder, Right, Right, Fast,RCB
+RCB11, Pawan Negi, Bowler, Left, Left, Spin,RCB
+RCB12, Devdutt Padikkal, Batsman, Left, Right, Spin,RCB
+RCB13, Parthiv Patel, Wicketkeeper, Left, Right, Spin,RCB
+RCB14, Josh Philippe, Wicketkeeper, Right, Does not bowl, Does not bowl,RCB
+RCB15, Shahbaz Ahmed, Allrounder, Left, Left, Spin,RCB
+RCB16, Navdeep Saini, Bowler, Right, Right, Fast,RCB
+RCB17, Dale Steyn, Bowler, Right, Right, Fast,RCB
+RCB18, Isuru Udana, Allrounder, Right, Left, Fast,RCB
+RCB19, Washington Sundar, Allrounder, Left, Right, Spin,RCB
+RCB20, Umesh Yadav, Bowler, Right, Right, Fast,RCB
+RCB21, Adam Zampa, Bowler, Right, Right, Spin,RCB
+RCB22, Kane Richardson, Bowler, Right, Right, Fast,RCB
+SRH1, David Warner, Captain|Batsman, Left, Right, Spin,SRH
+SRH2, Abdul Samad, Batsman, Right, Right, Spin,SRH
+SRH3, Abhishek Sharma, Bowler, Left, Left, Spin,SRH
+SRH4, Khaleel Ahmed, Bowler, Right, Left, Fast,SRH
+SRH5, Fabian Allen, Allrounder, Right, Left, Spin,SRH
+SRH6, Jonny Bairstow, Wicketkeeper, Right, Right, Fast,SRH
+SRH7, Basil Thampi, Bowler, Right, Right, Fast,SRH
+SRH8, Priyam Garg, Batsman, Right, Right, Fast,SRH
+SRH9, Shreevats Goswami, Wicketkeeper, Left, Does not bowl, Does not bowl,SRH
+SRH10, Jason Holder, Allrounder, Right, Right, Fast,SRH
+SRH11, Siddarth Kaul, Bowler, Right, Right, Fast,SRH
+SRH12, Mohammad Nabi, Allrounder, Right, Right, Spin,SRH
+SRH13, Shahbaz Nadeem, Bowler, Right, Left, Spin,SRH
+SRH14, T Natarajan, Bowler, Left, Left, Fast,SRH
+SRH15, Manish Pandey, Batsman, Right, Right, Fast,SRH
+SRH16, Rashid Khan, Bowler, Right, Right, Spin,SRH
+SRH17, Wriddhiman Saha, Wicketkeeper, Right, Does not bowl, Does not bowl,SRH
+SRH18, Bavanaka Sandeep, Batsman, Left, Left, Spin,SRH
+SRH19, Sandeep Sharma, Bowler, Right, Right, Fast,SRH
+SRH20, Vijay Shankar, Allrounder, Right, Right, Fast,SRH
+SRH21, Billy Stanlake, Bowler, Left, Right, Fast,SRH
+SRH22, Kane Williamson, Batsman, Right, Right, Spin,SRH
+SRH23, Bhuvneshwar Kumar, Bowler, Right, Right, Fast,SRH
+SRH24, Mitchell Marsh, Allrounder, Right, Right, Fast,SRH
+RO,Run Out,undefined,Right,Right,Fast,CSK
+NO,Not Out,undefined,Right,Right,Fast,CSK
